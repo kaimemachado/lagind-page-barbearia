@@ -1,0 +1,82 @@
+/*BODY*/
+
+body {
+    background-color: rgb(31, 31, 31);
+    margin: 0%;
+    padding: 0%;
+}
+
+/*HEADER*/
+
+header {
+    width: 100%;
+    padding-left: 20px;
+    background-color: rgb(31, 31, 31);
+}
+header h1 {
+    color: white;
+}
+
+/*BANNER*/
+
+.banner {
+    width: 100%;
+}
+
+/*SOBRE A BARBEARIA*/
+
+.principal {
+    color: white;
+    background-color: rgb(15, 15, 15);
+    padding: 20px;
+    text-align: center;
+    margin: 0px;
+    margin-top: 20px;
+}
+
+h2 {
+    color: yellow;
+}
+
+em strong {
+    color: yellow
+}
+
+/*BENEFÍCIOS*/
+
+.secundario {
+    background-color: rgb(15, 15, 15);
+    margin: 0px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+h3 {
+    color: yellow;
+    text-align: center;
+    font-size: 25px;
+}
+
+ul {
+    color: white;
+}
+
+.imagem {
+    width: 100%;
+    margin: 0%;
+    margin-top: 20px;
+}
+
+/*RODAPE*/
+
+.rodape {
+    background-color: rgb(15, 15, 15);
+    padding: 2px;
+    margin-top: 20px;
+}
+
+h4 {
+    color: white;
+    padding-left: 20px;
+}
+
